@@ -6,11 +6,9 @@ THIS REPOSITORY IS DEPRECATED. PLEASE FIND MAINTAINED CODE IN THE SUBKIT REPOSIT
 
 ### About
 
-MATLAB implementation of "Ordered Subspace Clustering with Block-diagonal Priors" (PDF)
+MATLAB implementation of "Ordered Subspace Clustering with Block-diagonal Priors" (PDF) from the following forthcoming paper
 
-Ordered Subspace Clustering with Block-diagonal Priors
-Fei Wu, YongLi Hu, YanFeng Sun, Junbin Gao, BaoCai Yin
-IEEE Transactions on Cybernetics, 2015
+Fei Wu, Yongli Hu, Yanfeng Sun, Junbin Gao, Baocai Yin, Ordered Subspace Clustering with Block-diagonal Priors, to appear in *IEEE Transactions on Cybernetics*, 2015
 
 ### Acknowledgement
 
@@ -19,7 +17,11 @@ Beijing University of Technology
 
 ### Dependent Packages
 
-NCut: ([http://www.cis.upenn.edu/~jshi/software/])
+- NCut: ([http://www.cis.upenn.edu/~jshi/software/])
+
+- projKappa ([http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm])
+
+- lyap ([http://www.mathworks.co.uk/help/matlab/ref/sylvester.html]) 
 
 ### Data Sources 
 
@@ -32,7 +34,7 @@ NCut: ([http://www.cis.upenn.edu/~jshi/software/])
 - Hopkins155 ([http://www.vision.jhu.edu/data/hopkins155/])
 
 
-### Main Fuction
+### Main Fuctions
 - QOSC:     Our first method.
 
 - BD_QOSC:  QOSC with block diagnal prior.
