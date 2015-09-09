@@ -21,15 +21,15 @@ Beijing University of Technology
 
 NCut: ([http://www.cis.upenn.edu/~jshi/software/])
 
-### Data Sources
+### Data Sources 
 
-- Video: The Internet Archive
+- Video: The Internet Archive ([http://archive.org/])
 
-- Faces: The Extended Yale Face Database B
+- Faces: The Extended Yale Face Database B ([http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html])
 
-- Expression: The Bu-4DFE Face Database
+- Expression: The Bu-4DFE Face Database ([http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html])
 
-- Hopkins155
+- Hopkins155 ([http://www.vision.jhu.edu/data/hopkins155/])
 
 
 ### Main Fuction
