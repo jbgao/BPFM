@@ -17,9 +17,9 @@ IEEE Transactions on Cybernetics, 2015
 The research project is supported by the Beijing Municipal Key Laboratory of Multimedia and Intelligent Software Technology,
 Beijing University of Technology
 
-### Included Libraries
+### Dependent Packages
 
-NCut
+NCut: ([http://www.cis.upenn.edu/~jshi/software/])
 
 ### Data Sources
 
